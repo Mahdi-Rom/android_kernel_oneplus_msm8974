@@ -91,4 +91,5 @@ smd_rpc_sym.c
 /zip
 /build.sh
 /build-48.sh
+/changelog_gen.sh
 
